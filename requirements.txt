@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+streamlit
+python-dotenv
+groq
+google-generativeai
